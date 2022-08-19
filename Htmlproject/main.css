@@ -1,0 +1,133 @@
+#body {
+    background: #fff;
+    color:#4d4d4d
+    font:'Poppins';
+    font-size:18px;
+       }
+.navbar {
+background:#ececec;
+padding: 15px 0px 15px 0px;
+font:#4d4d4d;
+
+}
+.navbar-brand
+{
+ margin-left: 10em 
+}
+.nav-link
+ {
+font-size: 18px;
+color: #4D4D4D;
+font-weight: regular;
+
+}
+.nav-link {
+    margin-right: 1em 
+}
+.nav-link:hover {
+    color: #000;
+}
+.navbar-collapse {
+    justify-content: flex-end;
+}
+.footer
+{
+Background: #CECECE;
+position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+font-size: 16px;
+text-align: center;
+ position: fixed;
+}
+.discription{
+	
+  text-align: justify;
+  margin: 0 120px 0 0;
+}
+.about{
+	display: block;
+	border-bottom: 3px solid #ee4758;
+	width: 9%;
+}	
+.contact{
+	display: block;
+	border-bottom: 3px solid #ee4758;
+	width: 13%;
+}
+.msg{
+	margin: 0 0 0 120;
+	width:68%;	
+}
+.map{
+	border: 3px solid #ee4758;	
+    margin: 0 120px 0 0;
+	width:auto;
+	border-radius: 15px;
+	overflow:hidden;
+	
+
+}
+.n1{
+	
+	color:#ee4758;
+	border-bottom: 2px solid #ee4758;
+	width:95%;
+
+}
+
+.banner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+   font-weight: semi-bold;
+   font-size: 48px;
+   width:auto;
+}
+#bannerimg{
+	
+	width:auto%;
+}
+
+.n2{
+	color:#d52037;
+	font-size: 24px;
+	font-weight:semi-bold;
+	width:auto;
+}	
+
+.footer1{
+	background-color:#cecece;
+	font-size: 16px;
+	color:gray;
+	text-align:center;
+	padding:15px;
+    width:auto;	
+}
+.utube{
+	  width: 68%;
+	  margin: 0 50 0 118;
+	  border: 3px solid white;
+      overflow:hidden;	 
+      border-radius: 25px;	  
+}
+#submitbutton{
+	background-color:#db1e36;
+	font-size: 18px;
+	font-weight:regular;
+	color:white;
+	width:auto;
+	
+}
+
+#myinput {
+ background-color:#e4e4e4;
+}
+#modelpopup{
+	border: 3px solid #ee4758;	
+	
+   }
+  
